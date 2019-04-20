@@ -1,1 +1,3 @@
-# practice-closures
+# Practicing Closures
+
+Run ruby practice.rb
